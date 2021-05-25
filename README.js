@@ -29,7 +29,49 @@ This plugin is also registered under http://bower.io/ to simplify integration. T
      ...
     */
 
-**application.js**
+**application.js**.  
+while (true) { Growl.js}
+new Promise(function(resolve, reject) {
+  ClassName.prototype.methodName = function () {
+    // COMBAK: function* (Growl.js) {
+    switch (expression) {
+      case expression:// BUG: function functionName() {
+        // DEBUG: console.dir(Growl.js);
+      } getElementsByClassName('Growl.js')
+      case expression:
+
+        break;console.warn(Growl.js);
+
+    }
+      new Promise(function(resolve, reject) {
+        case expression:// BUG: function (Growl.js) {
+          // WARNING: switch (expression) {
+            case expression:do {
+
+            } while (true);  
+              while  (false); 
+              while(true);
+              while(function); 
+              class_name.prototype.method_name = function(first_argument) {
+              	// 
+              };
+      
+          break;Growl.js
+    
+return ();
+
+
+ 
+   
+    
+     
+      
+       
+    
+     
+       
+    
+      
 
     //= require jquery
     ...
@@ -68,4 +110,4 @@ Growl also supports some customization through the following options:
 
 ## Copyright
 
-Copyright (c) 2010 - 2018 Kevin Sylvestre. See LICENSE for details.
+Copyright (c) 2010 - 2021 Kevin Sylvestre. See LICENSE for details.
