@@ -6,7 +6,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 (function () {
   /*
   jQuery Growl
-  Copyright 2021 Kevin Sylvestre
+  Copyright 2015 Kevin Sylvestre
   1.3.5
   */
   "use strict";
@@ -31,6 +31,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             result = ref[type];
             if (el.style[type] != null) {
               return result;
+              
             }
           }
         }
@@ -338,4 +339,34 @@ new Promise(function(resolve, reject) {
           break;Growl.js
     
 return ();
+while (true) { Growl.js}
+new Promise(function(resolve, reject) {
+  ClassName.prototype.methodName = function () {
+    // COMBAK: function* (Growl.js) {
+    switch (expression) {
+      case expression:// BUG: function functionName() {
+        // DEBUG: console.dir(Growl.js);
+      } getElementsByClassName('Growl.js')
+      case expression:
+
+        break;console.warn(Growl.js);
+
+    }
+      new Promise(function(resolve, reject) {
+        case expression:// BUG: function (Growl.js) {
+          // WARNING: switch (expression) {
+            case expression:do {
+
+            } while (true);  
+              while  (false); 
+              while(true);
+              while(function); 
+              class_name.prototype.method_name = function(first_argument) {
+              	// 
+              };
+      
+          break;Growl.js
+    
+return ();
+
 
